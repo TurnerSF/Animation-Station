@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Rick and Morty",
+    "genres": ["Comedy", "Adult Animation", "Sci-Fi"],
+    "created_by": "Dan Harmon and Justin Roiland",
+    "animation_studio": "Bardel",
+    "episodes_amount": "51",
+    "path": "/path/to/rick_and_morty_images",
+    "streaming_services": [
+      "Hulu",
+      "HBO Max",
+      "Amazon Prime"
+    ],
+    "created_at": "2023-12-10T08:30:32.326Z",
+    "updated_at": "2023-12-10T08:30:32.326Z"
+  },
+  {
+    "title": "Adventure Time",
+    "genres": ["Animation", "Adventure", "Fantasy", "Comedy"],
+    "created_by": "Pendleton Ward",
+    "animation_studio": "Cartoon Network Studios",
+    "episodes_amount": 283,
+    "path": "/path/to/adventure_time_images",
+    "streaming_services": [
+      "HBO Max"
+    ],
+    "created_at": "2023-12-10T08:30:32.326Z",
+    "updated_at": "2023-12-10T08:30:32.326Z"
+  },
+  {
+    "title": "Regular Show",
+    "genres": ["Animation", "Adventure", "Comedy"],
+    "created_by": "J.G. Quintel",
+    "animation_studio": "Cartoon Network Studios",
+    "episodes_amount": 261,
+    "path": "/path/to/regular_show_images",
+    "streaming_services": [
+      "HBO Max",
+      "Hulu"
+    ],
+    "created_at": "2023-12-10T08:30:32.326Z",
+    "updated_at": "2023-12-10T08:30:32.326Z"
+  },
+  {
+    "title": "Futurama",
+    "genres": ["Adult Animation", "Sci-Fi", "Comedy"],
+    "created_by": "Matt Groening",
+    "animation_studio": "Rough Draft Studios",
+    "episodes_amount": 140,
+    "path": "/path/to/Futurama_images",
+    "streaming_services": [
+      "Hulu"
+    ],
+    "created_at": "2023-12-10T08:30:32.326Z",
+    "updated_at": "2023-12-10T08:30:32.326Z"
+  },
+  {
+    "title": "Disenchantment",
+    "genres": ["Adult Animation", "Fantasy", "Comedy", "Adventure"],
+    "created_by": "Matt Groening",
+    "animation_studio": "Rough Draft Studios",
+    "episodes_amount": 50,
+    "path": "/path/to/Disenchantment_images",
+    "streaming_services": [
+      "Netflix"
+    ],
+    "created_at": "2023-12-10T08:30:32.326Z",
+    "updated_at": "2023-12-10T08:30:32.326Z"
+  }
+]

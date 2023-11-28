@@ -1,0 +1,36 @@
+.anime-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.anime-info {
+  flex: 1;
+}
+
+.anime-image img {
+  max-width: 100%;
+  height: auto;
+}
+
+.link-style {
+  text-decoration: none;
+  color: inherit;
+}
+
+.container-fluid {
+    margin-top: 40px;
+    width: 1400px;
+}
+
+.create-anime-button {
+    margin-left: auto;
+    margin-bottom: 10px; /* Add margin for spacing */
+}
+
+.homepage-container {
+    display: flex;
+    flex-direction: column;
+  }

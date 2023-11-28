@@ -1,0 +1,80 @@
+[
+  {
+    "title": "One Piece",
+    "genres": ["Shonen Jump", "Adventure", "Fantasy"],
+    "manga_author": "Eiichiro Oda",
+    "animation_studio": "Toei Animation",
+    "amount_of_episodes": 1083,
+    "path": "/path/to/one_piece_images",
+    "streaming_services": [
+      "Crunchyroll",
+      "Funimation",
+      "Netflix",
+      "Hulu",
+      "Amazon Prime"
+    ],
+    "created_at": "2023-12-10T08:30:32.326Z",
+    "updated_at": "2023-12-10T08:30:32.326Z"
+  },
+  {
+    "title": "Naruto",
+    "genres": ["Shonen Jump", "Adventure", "Action", "Fantasy"],
+    "manga_author": "Masashi Kishimoto",
+    "animation_studio": "Pierrot",
+    "amount_of_episodes": 220,
+    "path": "/path/to/Naruto_images",
+    "streaming_services": [
+        "Crunchyroll",
+        "Funimation",
+        "Netflix",
+        "Hulu",
+        "Amazon Prime"
+      ],
+    "created_at": "2023-12-10T08:30:32.326Z",
+    "updated_at": "2023-12-10T08:30:32.326Z"
+  },
+  {
+    "title": "Odd Taxi",
+    "genres": ["Thriller", "Mystery", "Drama", "Crime Fiction"],
+    "manga_author": "Kazuya Konomoto",
+    "animation_studio": "OLM Team Yoshioka P.I.C.S.",
+    "amount_of_episodes": 13,
+    "path": "/path/to/Odd_Taxi_images",
+    "streaming_services": [
+        "Crunchyroll",
+        "Amazon Prime"
+      ],
+    "created_at": "2023-12-10T08:30:32.326Z",
+    "updated_at": "2023-12-10T08:30:32.326Z"
+  },
+  {
+    "title": "Assassination Classroom",
+    "genres": ["Action", "Science-Fiction", "Comedy"],
+    "manga_author": "Yusei Matsui",
+    "animation_studio": "Lerche",
+    "amount_of_episodes": 13,
+    "path": "/path/to/Odd_Taxi_images",
+    "streaming_services": [
+        "Crunchyroll",
+        "Funimation",
+        "Amazon Prime"
+      ],
+    "created_at": "2023-12-10T08:30:32.326Z",
+    "updated_at": "2023-12-10T08:30:32.326Z"
+  },
+  {
+    "title": "Ranking Of Kings",
+    "genres": ["Fantasy", "Drama", "Adventure"],
+    "manga_author": "Sōsuke Tōka",
+    "animation_studio": "Wit Studio",
+    "amount_of_episodes": 40,
+    "path": "/path/to/Ranking_of_King_images",
+    "streaming_services": [
+      "Crunchyroll",
+      "Funimation",
+      "Amazon Prime"
+    ],
+    "created_at": "2023-12-10T08:30:32.326Z",
+    "updated_at": "2023-12-10T08:30:32.326Z"
+  }
+]

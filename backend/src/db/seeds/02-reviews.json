@@ -1,0 +1,26 @@
+[
+    {
+      "anime_id": 1,
+      "cartoon_id": null,
+      "rating": 10.0,
+      "content": "One Piece is an amazing anime!",
+      "created_at": "2023-12-10T08:32:15.123Z",
+      "updated_at": "2023-12-10T08:32:15.123Z"
+    },
+    {
+      "anime_id": 2,
+      "cartoon_id": null,
+      "rating": 8.0,
+      "content": "Naruto has a great storyline.",
+      "created_at": "2023-12-10T08:34:22.456Z",
+      "updated_at": "2023-12-10T08:34:22.456Z"
+    },
+    {
+      "anime_id": 3,
+      "cartoon_id": null,
+      "rating": 10.0,
+      "content": "Odd Taxi is a masterpiece!",
+      "created_at": "2023-12-10T08:36:30.789Z",
+      "updated_at": "2023-12-10T08:36:30.789Z"
+    }
+  ]

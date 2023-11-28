@@ -1,0 +1,52 @@
+.nav-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Change align-items to flex-start */
+    height: 80px;
+    width: 50%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-bottom: 2px solid black;
+    overflow: visible;
+  }
+  
+  ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    font-size: 2vw; /* Use viewport width for relative font size */
+    margin: 0 1rem; /* Adjust margin for smaller screens */
+  }
+  
+  .nav-list {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    max-width: 150px; /* Set a maximum width for the logo */
+    width: 100%; /* Make the logo responsive */
+    height: 100%;
+  }
+
+  .logo:hover {
+    opacity: 0.5;
+  }
+  
+  .about-us {
+    display: flex;
+    white-space: nowrap;
+  }
+  
+  .nav-list a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  .nav-list a:hover {
+    color: rgba(0, 0, 0, 0.5);
+  }
+  
