@@ -22,5 +22,13 @@
       "content": "Odd Taxi is a masterpiece!",
       "created_at": "2023-12-10T08:36:30.789Z",
       "updated_at": "2023-12-10T08:36:30.789Z"
+    },
+    {
+      "anime_id": 4,
+      "cartoon_id": null,
+      "rating": 10.0,
+      "content": "Assassination classroom is a amazing!",
+      "created_at": "2023-12-10T08:36:30.789Z",
+      "updated_at": "2023-12-10T08:36:30.789Z"
     }
   ]

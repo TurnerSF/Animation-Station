@@ -6,7 +6,7 @@ exports.up = function (knex) {
       table.string("manga_author").defaultTo("N/A"); // Default to {} if user doesn't provide. its {} becuase this indicates empty array in postgres
       table.string("animation_studio").defaultTo("N/A")
       table.integer("amount_of_episodes").defaultTo(null);
-      table.string("path").notNullable();
+      table.text("path").notNullable();
       table.specificType("streaming_services", "text[]").defaultTo("{}");
       table.timestamps(true, true); // Adds created_at and updated_at columns
     });
