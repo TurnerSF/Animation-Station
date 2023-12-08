@@ -18,9 +18,6 @@ const Navbar = () => {
             <NavLink className="cartoons" to='/cartoons'>Cartoons</NavLink>
           </li>
           <li>
-            <NavLink className="reviews" to='reviews'>Reviews</NavLink>
-          </li>
-          <li>
             <NavLink className='about-us' to='aboutus'>About Us</NavLink>
           </li>{" "}
         </ul>

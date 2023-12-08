@@ -16,7 +16,7 @@ const Homepage = () => {
       const data = await fetchAnimeList();
       setAnimeList(data);
     } catch (error) {
-      // Handle error if needed
+      console.error("Error fetching anime data:", error);
     }
   };
 
